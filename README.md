@@ -1,4 +1,4 @@
 # 2nd
+this is my git repository.
 <br>
-this is my git repository
-authr- varshika 
+author-varshika 
